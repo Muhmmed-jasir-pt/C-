@@ -1,6 +1,6 @@
 //written by jazer__________________________________________________
 
-//Program to find address of variables/////
+//Program to find address of datas/////
 
 #include <iostream>
 
